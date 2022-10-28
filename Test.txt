@@ -1,0 +1,27 @@
+1.explain JRE,JDK,JVM
+ans:
+JRE - java runtime environment : it provides runtime environment to execute the class file.jre is part of jdk
+JDK - java development kit : JDK is a complete set of tools, libraries and all te necessary resources which are required to create and execute the java program.
+JVM - Java virtual machine.it's a part of jre.
+
+2.Explain the following 
+	1.Class, Object, static, public, private keywords 
+
+Class: Class is an instance of an object which acts like blueprint to create multiple objects of same type of attributes and behaviours.
+Object: Objects are those which have attributes and behaviours 
+ex: if human is a class then men and women will be objects 
+	and name , height , weight will become attributes
+	and sleeping , living, travelling will become behaviours.
+
+public and private : access modifiers : methods, objects or variables which are created using public keyword will accessible by other class but a private keyword will make all those as private means which cannot be accessed by other class.
+
+	2.public static void main(String args[]): public is a access modifier which defines the accessebility, static is a non-accesss modifier,void is return type which denotes the type of data which is returned after the execution of the program which is nothing in this case (void:-empty). and main(String args[]) is method signature with parameter inside the paranthesis.
+
+	3.System.out.println() : don't know about System.out but by seeing this i guess we are getting message dispayed in the screen which is output from the system 
+		System may be the class name , out may be a method 
+and println prints the every message in seperate lines it's like block elements of the html and print is like inline element of html ,messages will be displayed in a single line.
+
+3.Array
+Array is a container or variable which can hold multiple data of same type.
+
+4.Write a program.
